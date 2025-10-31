@@ -13,3 +13,6 @@ BEGIN
 	END IF;-- Esto siempre debe ir en un trigger
 END $$-- Siempre se cierra un trigger con $$
 DELIMITER ;-- Aqui se cierra el delimitador siempre con ;
+
+--Como eliminar un trigger
+DROP TRIGGER tg_email;
