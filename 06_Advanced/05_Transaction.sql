@@ -11,5 +11,6 @@ Comandos básicos:
 
 ------------ CONCURRENCY ------------
 
-/*En bases de datos, la concurrencia se refiere a la capacidad del sistema para permitir que múltiples usuarios o procesos accedan y 
-manipulen la base de datos al mismo tiempo, sin que se produzcan errores ni inconsistencias en los datos.*/
+/*En bases de datos, la concurrencia se refiere a la capacidad del sistema para permitir que múltiples usuarios 
+o procesos accedan y manipulen la base de datos al mismo tiempo, sin que se produzcan errores ni inconsistencias 
+en los datos.*/
